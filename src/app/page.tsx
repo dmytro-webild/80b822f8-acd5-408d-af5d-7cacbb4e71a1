@@ -111,7 +111,7 @@ export default function LandingPage() {
           href: "#menu",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/cream-liquer_23-2148014925.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cream-liquer_23-2148014925.jpg?_wi=1"
       imageAlt="Cozy cafe interior with people enjoying chai"
       showBlur={true}
       textPosition="bottom"
@@ -150,19 +150,19 @@ export default function LandingPage() {
         {
           title: "The Perfect Hangout Spot",
           description: "A welcoming space for friends, couples, and students to relax, connect, and enjoy the vibrant atmosphere.",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-having-coffee-together_23-2148263232.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-having-coffee-together_23-2148263232.jpg?_wi=1",
           imageAlt: "Friends laughing in a cafe",
         },
         {
           title: "Freshly Brewed Chai",
           description: "Savor the rich flavors of our authentic Kulhad Chai, prepared with love and the finest ingredients.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-cup-tea-with-fresh-black-tea-gray-background-flower-color-flavor-photo-breakfast-ceremony-coffee_140725-160840.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-cup-tea-with-fresh-black-tea-gray-background-flower-color-flavor-photo-breakfast-ceremony-coffee_140725-160840.jpg?_wi=1",
           imageAlt: "Kulhad chai being poured",
         },
         {
           title: "Delicious Snacks & Bites",
           description: "Pair your chai with our delectable range of handcrafted snacks, from classic Maggi to gourmet sandwiches.",
-          imageSrc: "http://img.b2bpic.net/free-photo/fresh-sandwiches-arrangement-white-background_23-2148617389.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fresh-sandwiches-arrangement-white-background_23-2148617389.jpg?_wi=1",
           imageAlt: "Assortment of cafe snacks",
         },
       ]}
@@ -182,7 +182,7 @@ export default function LandingPage() {
           id: "chai-adrak",
           name: "Adrak Kulhad Chai",
           price: "₹60",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-decoration-with-coffee-cup-candle_23-2148325559.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-decoration-with-coffee-cup-candle_23-2148325559.jpg?_wi=1",
           imageAlt: "Adrak Kulhad Chai",
         },
         {
@@ -316,7 +316,7 @@ export default function LandingPage() {
           tag: "Authentic Chai",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiling-young-blonde-guy-wearing-yellow-t-shirt-glasses_141793-89293.jpg",
           avatarAlt: "Anjali Sharma",
-          imageSrc: "http://img.b2bpic.net/free-photo/cream-liquer_23-2148014925.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cream-liquer_23-2148014925.jpg?_wi=2",
           imageAlt: "smiling young woman portrait",
         },
         {
@@ -328,7 +328,7 @@ export default function LandingPage() {
           tag: "Student Friendly",
           avatarSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-man-holding-camera_23-2149915894.jpg",
           avatarAlt: "Rahul Verma",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-having-coffee-together_23-2148263232.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-having-coffee-together_23-2148263232.jpg?_wi=2",
           imageAlt: "smiling young woman portrait",
         },
         {
@@ -340,7 +340,7 @@ export default function LandingPage() {
           tag: "Cozy Vibe",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiley-brunette-with-wooden-background_23-2147640700.jpg",
           avatarAlt: "Priya Singh",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-cup-tea-with-fresh-black-tea-gray-background-flower-color-flavor-photo-breakfast-ceremony-coffee_140725-160840.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-cup-tea-with-fresh-black-tea-gray-background-flower-color-flavor-photo-breakfast-ceremony-coffee_140725-160840.jpg?_wi=2",
           imageAlt: "smiling young woman portrait",
         },
         {
@@ -352,7 +352,7 @@ export default function LandingPage() {
           tag: "Great Prices",
           avatarSrc: "http://img.b2bpic.net/free-photo/people-pleasant-emotions-feelings-active-lifestyle-concept-content-dark-skinned-mixed-race-teenage-boy-holds-skateboard_273609-8752.jpg",
           avatarAlt: "Deepak Kumar",
-          imageSrc: "http://img.b2bpic.net/free-photo/fresh-sandwiches-arrangement-white-background_23-2148617389.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fresh-sandwiches-arrangement-white-background_23-2148617389.jpg?_wi=2",
           imageAlt: "smiling young woman portrait",
         },
         {
@@ -364,7 +364,7 @@ export default function LandingPage() {
           tag: "Comfort Food",
           avatarSrc: "http://img.b2bpic.net/free-photo/woman-drinking-looking-camera_23-2147770083.jpg",
           avatarAlt: "Meena Devi",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-decoration-with-coffee-cup-candle_23-2148325559.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-decoration-with-coffee-cup-candle_23-2148325559.jpg?_wi=2",
           imageAlt: "smiling young woman portrait",
         },
       ]}
